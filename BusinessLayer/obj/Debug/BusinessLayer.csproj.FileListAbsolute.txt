@@ -13,8 +13,8 @@ F:\Swati\xUnit\xUnit\TestApplication\BusinessLayer\bin\Debug\BusinessLayer.pdb
 F:\Swati\xUnit\xUnit\TestApplication\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
 F:\Swati\xUnit\xUnit\TestApplication\BusinessLayer\obj\Debug\BusinessLayer.dll
 F:\Swati\xUnit\xUnit\TestApplication\BusinessLayer\obj\Debug\BusinessLayer.pdb
-F:\Jenkins\TestDemo\BusinessLayer\bin\Debug\BusinessLayer.dll
-F:\Jenkins\TestDemo\BusinessLayer\bin\Debug\BusinessLayer.pdb
-F:\Jenkins\TestDemo\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
-F:\Jenkins\TestDemo\BusinessLayer\obj\Debug\BusinessLayer.dll
-F:\Jenkins\TestDemo\BusinessLayer\obj\Debug\BusinessLayer.pdb
+F:\IntelProjects\Swati\UnitTest\xUnit\BusinessLayer\bin\Debug\BusinessLayer.dll
+F:\IntelProjects\Swati\UnitTest\xUnit\BusinessLayer\bin\Debug\BusinessLayer.pdb
+F:\IntelProjects\Swati\UnitTest\xUnit\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+F:\IntelProjects\Swati\UnitTest\xUnit\BusinessLayer\obj\Debug\BusinessLayer.dll
+F:\IntelProjects\Swati\UnitTest\xUnit\BusinessLayer\obj\Debug\BusinessLayer.pdb
