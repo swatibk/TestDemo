@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BusinessLayer
 {
-    public class CalculatorBLB
+    public class CalculatorBL
     {
         public int Add(int number1, int number2)
         {
